@@ -1,6 +1,6 @@
 ![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Srestha Chattopadhyay</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
@@ -69,7 +69,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SresthaCodeWave&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-![Aditya's Github stats](https://github-readme-stats.vercel.app/api?username=SresthaCodeWave&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Srestha's Github stats](https://github-readme-stats.vercel.app/api?username=SresthaCodeWave&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
 </p>
 
